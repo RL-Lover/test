@@ -1,4 +1,3 @@
 # Chapter1
 
-hello
-<img src="Desert.jpg">
+$$ i^2 = 5 $$
