@@ -1,0 +1,75 @@
+.figure_note {
+    font-size: 15px;
+}
+
+.figure {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.float_right {
+    float: right;
+}
+
+.pc_box {
+    background-color: #404040;
+    background-repeat: no-repeat;
+    background-attachment: scroll left bottom;
+    background-position: left bottom;
+    margin-bottom: 10px;
+    padding: 0 0 5px 0;
+    width: auto;
+    border-radius: 10px;
+}
+
+.pc_box h4 {
+    color: #ffffff;
+    margin: 0 0 0 0;
+    padding: 5px 20px;
+}
+
+.pc_box pre {
+
+    background: #f2f2f2 none repeat scroll 0 0;
+    color: #000000;
+    margin: 0 5px;
+    padding: 5px 14px;
+    width: auto;
+    word-wrap: break-word;
+    border-radius: 0 0 5px 5px;
+}
+  
+
+ .math_box {
+    background-color: #f2f2f2;
+    background-repeat: no-repeat;
+    background-attachment: scroll left bottom;
+    background-position: left bottom;
+    margin-bottom: 10px;
+    padding: 0 0 5px 0;
+    width: auto;
+    border-radius: 10px;
+    border-color: #8c8c8c;
+    border-style: solid;
+    border-width: 3px 3px;
+}
+
+.math_box h4 {
+    color: #808080;
+    margin: 0 0 0 0;
+    padding: 5px 20px;
+    border-bottom-width: 3px;
+    border-bottom-color: #8c8c8c;
+    border-bottom-style: solid;
+}
+
+.math_box pre {
+    color: #000000;
+    margin: 0 5px;
+    padding: 5px 14px;
+    width: auto;
+    border-radius: 0 0 5px 5px;
+    white-space: pre-wrap;
+}
+  
